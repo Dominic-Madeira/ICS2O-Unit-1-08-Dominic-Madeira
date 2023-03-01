@@ -5,5 +5,5 @@
 // This file contains the JS functions for index.html
 
 function myButtonClicked() {
-  alert("Hello, Wordl!")
+  alert("Calculation Failed!!")
 }
